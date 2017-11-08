@@ -1,0 +1,3 @@
+rootProject.name = 'traffiti_browser'
+
+include ':app'
